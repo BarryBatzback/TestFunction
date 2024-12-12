@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a94284-2f2f-4ac4-937b-06fbc4c02822" name="Changes" comment="Задание к уроку &quot;Пространство имен.&quot;">
-      <change afterPath="$PROJECT_DIR$/5_2_Houses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_2_Houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_2_Houses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BarryBatzback/TestFunction.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/BarryBatzback/Classes-and-Objects.git&quot;,
     &quot;accountId&quot;: &quot;7ed7ca01-5ea4-47e9-ba71-a1eb00241960&quot;
   }
 }</component>
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.5_2_Houses.executor": "Run",
+    "Python.OOP_HOUSE.executor": "Run",
     "Python.TestF.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
