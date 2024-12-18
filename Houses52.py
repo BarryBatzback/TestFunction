@@ -1,9 +1,9 @@
 
 class House:
+    houses_history = []
     def __init__(self, name, floor):
         self.name = name
         self.number_of_floors = floor
-
 
     def go_to(self, new_floor):
         if new_floor < 1 or new_floor > self.number_of_floors: #Если new_floor больше чем self.number_of_floors или меньше 1, то вывести строку "f"Такого этажа в здании '{self.name}' не существует""

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a94284-2f2f-4ac4-937b-06fbc4c02822" name="Changes" comment="Задание к уроку &quot;Пространство имен.&quot;">
-      <change beforePath="$PROJECT_DIR$/5_2_Houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_2_Houses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_6_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_2_Houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Houses52.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -46,8 +53,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.5_2_Houses.executor": "Run",
+    "Python.5_6_module.executor": "Run",
+    "Python.Houses52.executor": "Run",
     "Python.OOP_HOUSE.executor": "Run",
     "Python.TestF.executor": "Run",
+    "Python.module54.executor": "Run",
+    "Python.module_5_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/PythonprojectsForUniv/NewProjForModule_4",
@@ -102,7 +113,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="b1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
